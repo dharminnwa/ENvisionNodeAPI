@@ -1,0 +1,124 @@
+9/22/2019 11:15:1 am:- All API call is Not Tokan based.
+9/22/2019 11:22:43 am:- Login Sucessfully...
+9/22/2019 11:22:43 am:- Login successfully
+9/22/2019 11:22:45 am:- User Login Logs inserted successfully..
+9/22/2019 11:22:48 am:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 11:22:48 am:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 11:27:24 am:- GetLayerTreeViewData successfully
+9/22/2019 11:27:24 am:- User Login Logs inserted successfully..
+9/22/2019 11:32:6 am:- User Login Logs inserted successfully..
+9/22/2019 11:47:50 am:- User Login Logs inserted successfully..
+9/22/2019 12:11:59 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:12:1 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:12:13 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:12:14 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:12:50 pm:- User Login Logs inserted successfully..
+9/22/2019 12:14:54 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:14:55 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:15:52 pm:- User Login Logs inserted successfully..
+9/22/2019 12:20:32 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:20:33 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:21:21 pm:- User Login Logs inserted successfully..
+9/22/2019 12:22:16 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:22:17 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:22:34 pm:- User Login Logs inserted successfully..
+9/22/2019 12:26:59 pm:- All API call is Not Tokan based.
+9/22/2019 12:27:18 pm:- User Login Logs inserted successfully..
+9/22/2019 12:30:32 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:30:33 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:30:49 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 12:30:49 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 12:31:4 pm:- User Login Logs inserted successfully..
+9/22/2019 12:54:22 pm:- All API call is Not Tokan based.
+9/22/2019 1:05:1 pm:- Login Sucessfully...
+9/22/2019 1:05:1 pm:- Login successfully
+9/22/2019 1:05:3 pm:- User Login Logs inserted successfully..
+9/22/2019 1:05:6 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:05:6 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:05:25 pm:- User Login Logs inserted successfully..
+9/22/2019 1:06:56 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:06:57 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:07:56 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:07:56 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:08:13 pm:- User Login Logs inserted successfully..
+9/22/2019 1:13:5 pm:- All API call is Not Tokan based.
+9/22/2019 1:15:44 pm:- Login Sucessfully...
+9/22/2019 1:15:44 pm:- Login successfully
+9/22/2019 1:15:46 pm:- User Login Logs inserted successfully..
+9/22/2019 1:15:49 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:15:51 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:16:3 pm:- User Login Logs inserted successfully..
+9/22/2019 1:27:56 pm:- Basemap changed Logs inserted successfully..
+9/22/2019 1:30:30 pm:- User Login Logs inserted successfully..
+9/22/2019 1:31:24 pm:- All API call is Not Tokan based.
+9/22/2019 1:38:35 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:38:36 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:38:47 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:38:48 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:38:57 pm:- User Login Logs inserted successfully..
+9/22/2019 1:40:54 pm:- All API call is Not Tokan based.
+9/22/2019 1:41:29 pm:- User Login Logs inserted successfully..
+9/22/2019 1:41:54 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:41:54 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:42:5 pm:- User Login Logs inserted successfully..
+9/22/2019 1:45:42 pm:- All API call is Not Tokan based.
+9/22/2019 1:46:7 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:46:7 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:46:15 pm:- User Login Logs inserted successfully..
+9/22/2019 1:47:36 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:47:37 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:47:45 pm:- User Login Logs inserted successfully..
+9/22/2019 1:49:53 pm:- All API call is Not Tokan based.
+9/22/2019 1:51:41 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:51:41 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:51:49 pm:- User Login Logs inserted successfully..
+9/22/2019 1:53:48 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 1:53:49 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 1:54:18 pm:- User Login Logs inserted successfully..
+9/22/2019 2:53:45 pm:- All API call is Not Tokan based.
+9/22/2019 2:55:57 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 2:55:57 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 2:57:18 pm:- User Login Logs inserted successfully..
+9/22/2019 2:59:7 pm:- All API call is Not Tokan based.
+9/22/2019 3:00:2 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 3:00:2 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 3:00:28 pm:- User Login Logs inserted successfully..
+9/22/2019 3:02:36 pm:- All API call is Not Tokan based.
+9/22/2019 3:02:59 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 3:02:59 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 3:03:5 pm:- User Login Logs inserted successfully..
+9/22/2019 3:05:5 pm:- All API call is Not Tokan based.
+9/22/2019 3:06:46 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 3:06:46 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 3:07:6 pm:- User Login Logs inserted successfully..
+9/22/2019 3:12:13 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 3:12:15 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 3:12:30 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 3:12:30 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 3:12:42 pm:- User Login Logs inserted successfully..
+9/22/2019 4:49:31 pm:- All API call is Not Tokan based.
+9/22/2019 4:57:39 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 4:57:42 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 4:58:29 pm:- User Login Logs inserted successfully..
+9/22/2019 4:58:52 pm:- User Login Logs inserted successfully..
+9/22/2019 4:59:32 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 4:59:32 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 4:59:42 pm:- User Login Logs inserted successfully..
+9/22/2019 4:59:47 pm:- User Login Logs inserted successfully..
+9/22/2019 6:14:11 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 6:14:11 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 6:14:19 pm:- User Login Logs inserted successfully..
+9/22/2019 6:14:30 pm:- User Login Logs inserted successfully..
+9/22/2019 6:14:42 pm:- User Login Logs inserted successfully..
+9/22/2019 6:15:19 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 6:15:20 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 6:15:27 pm:- User Login Logs inserted successfully..
+9/22/2019 6:18:4 pm:- User Login Logs inserted successfully..
+9/22/2019 6:18:15 pm:- User Login Logs inserted successfully..
+9/22/2019 6:18:25 pm:- User Login Logs inserted successfully..
+9/22/2019 6:21:13 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/22/2019 6:21:14 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/22/2019 6:22:55 pm:- User Login Logs inserted successfully..
+9/22/2019 6:23:7 pm:- Basemap changed Logs inserted successfully..
+9/22/2019 7:00:35 pm:- GetLayerTreeViewData successfully
+9/22/2019 7:00:35 pm:- User GetLayerTreeView Logs inserted successfully..

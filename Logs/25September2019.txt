@@ -1,0 +1,5 @@
+8/25/2019 11:11:33 am:- All API call is Not Tokan based.
+8/25/2019 6:06:17 pm:- All API call is Not Tokan based.
+8/25/2019 6:49:56 pm:- All API call is Not Tokan based.
+8/25/2019 6:50:30 pm:- HomeDashboard controller GetTransProjects method call successfully
+8/25/2019 6:50:30 pm:- HomeDashboard controller GetPipelineActivities method call successfully

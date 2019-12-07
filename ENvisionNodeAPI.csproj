@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DA2FF7B-A766-4954-8720-392C45F07A3E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ENvisionNodeAPI</RootNamespace>
+    <AssemblyName>ENvisionNodeAPI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\database.js" />
+    <Content Include="config\databaseMapSearch.js" />
+    <Content Include="config\databaseParcelPostgre.js" />
+    <Content Include="config\databasePostgre.js" />
+    <Content Include="config\default.json" />
+    <Content Include="Connection\connectKnex.js" />
+    <Content Include="Connection\connectMapsearchData.js" />
+    <Content Include="Connection\connectPostgreSql.js" />
+    <Content Include="Controller\AddDataController.js" />
+    <Content Include="Controller\CreateLayerController.js" />
+    <Content Include="Controller\DrawToolsController.js" />
+    <Content Include="Controller\GeoServerNewController.js" />
+    <Content Include="Controller\GlobalSearchController.js" />
+    <Content Include="Controller\HomeDashboradController.js" />
+    <Content Include="Controller\InfoBoxFeedbackController.js" />
+    <Content Include="Controller\InfoboxNotesController.js" />
+    <Content Include="Controller\IntelligenceController\CompanayIntelligenceController.js" />
+    <Content Include="Controller\IntelligenceController\GeneratingUnitsController.js" />
+    <Content Include="Controller\IntelligenceController\PipelineActivityController.js" />
+    <Content Include="Controller\IntelligenceController\PowerPlantsController.js" />
+    <Content Include="Controller\IntelligenceController\TransmissionProjectController.js" />
+    <Content Include="Controller\LayerStyleController.js" />
+    <Content Include="Controller\MyMapController.js" />
+    <Content Include="Controller\ParcelDataController.js" />
+    <Content Include="Controller\SharedDataController.js" />
+    <Content Include="Controller\SiteSelectionController.js" />
+    <Content Include="Controller\ToolsController.js" />
+    <Content Include="DLLS\DotSpatial.Data.dll" />
+    <Content Include="DLLS\DotSpatial.Mono.dll" />
+    <Content Include="DLLS\DotSpatial.Projections.dll" />
+    <Content Include="DLLS\DotSpatial.Serialization.dll" />
+    <Content Include="DLLS\DotSpatial.Topology.dll" />
+    <Content Include="DLLS\ExcelToShapeFile.dll" />
+    <Content Include="DLLS\ParseKML.dll" />
+    <Content Include="DLLS\ShapeType.dll" />
+    <Content Include="DLLS\SharpKml.dll" />
+    <Content Include="DLLS\SharpKml.Kmz.dll" />
+    <Content Include="Helper\AddData.js" />
+    <Content Include="Helper\CreateLayer.js" />
+    <Content Include="Helper\createLogs.js" />
+    <Content Include="Helper\DotSpatial.js" />
+    <Content Include="Helper\ErrorHelper.js" />
+    <Content Include="Helper\GeoServerHelper.js" />
+    <Content Include="Helper\InfoboxNotesHelper.js" />
+    <Content Include="Helper\KnexHelper.js" />
+    <Content Include="Helper\MapsearchTreeLayer.js" />
+    <Content Include="Helper\MyMap.js" />
+    <Content Include="Helper\SqlQuery\AddDataQuery.js" />
+    <Content Include="Helper\SqlQuery\HomeDashboardQuery.js" />
+    <Content Include="Helper\SqlQuery\IntelligenceSqlQuery\GeneratingUnitsQuery.js" />
+    <Content Include="Helper\SqlQuery\IntelligenceSqlQuery\MapSearchQuery.js" />
+    <Content Include="Helper\SqlQuery\IntelligenceSqlQuery\PipelineMapsearchQuery.js" />
+    <Content Include="Helper\SqlQuery\IntelligenceSqlQuery\PowerPlantsQuery.js" />
+    <Content Include="Helper\SqlQuery\IntelligenceSqlQuery\TransmissionQuery.js" />
+    <Content Include="Helper\SqlQuery\LayerQuery.js" />
+    <Content Include="Helper\SqlQuery\MyMapQuery.js" />
+    <Content Include="Helper\SqlQuery\PostGreQuery.js" />
+    <Content Include="Helper\SqlQuery\ToolsQuery.js" />
+    <Content Include="Helper\SqlQuery\UserQuery.js" />
+    <Content Include="Helper\User.js" />
+    <Content Include="Middlewares\error.js" />
+    <Content Include="Models\Bookmark.js" />
+    <Content Include="Models\Category.js" />
+    <Content Include="Models\Customaps_CooperativeUser.js" />
+    <Content Include="Models\CustomMap.js" />
+    <Content Include="Models\CustomMap_DataSet.js" />
+    <Content Include="Models\CustomMap_DefaultCheckedLayer.js" />
+    <Content Include="Models\CustomMap_EnergyLayer.js" />
+    <Content Include="Models\Custom\AddDataModel.js" />
+    <Content Include="Models\DataSet.js" />
+    <Content Include="Models\DrawTool.js" />
+    <Content Include="Models\EditableLayer.js" />
+    <Content Include="Models\EditableLayers_SharedExcluded.js" />
+    <Content Include="Models\GeoMapProp.js" />
+    <Content Include="Models\index.js" />
+    <Content Include="Models\InfoboxNotes.js" />
+    <Content Include="Models\LayerGridFilter.js" />
+    <Content Include="Models\Logs.js" />
+    <Content Include="Models\ParcelPostgreDB\index.js" />
+    <Content Include="Models\ParcelPostgreDB\RawQuery.js" />
+    <Content Include="Models\PostgreDb\index.js" />
+    <Content Include="Models\PostgreDb\RawQuery.js" />
+    <Content Include="Models\RawQuery.js" />
+    <Content Include="Models\ResearchDb\index.js" />
+    <Content Include="Models\ResearchDb\RawQuery.js" />
+    <Content Include="package-lock.json" />
+    <Content Include="package.json" />
+    <Content Include="Routes\AddDataRoutes.js" />
+    <Content Include="Routes\CreateLayerRoute.js" />
+    <Content Include="Routes\DrawToolsRoutes.js" />
+    <Content Include="Routes\FeedbackRoutes.js" />
+    <Content Include="Routes\GeoServerNewRoutes.js" />
+    <Content Include="Routes\GeoServerRoutes.js" />
+    <Content Include="Routes\GlobalSearchRoutes.js" />
+    <Content Include="Routes\HomeDashboardRoutes.js" />
+    <Content Include="Routes\IconCreateRoutes.js" />
+    <Content Include="Routes\InfoboxNotesRoutes.js" />
+    <Content Include="Routes\Intelligence\CompanyIntelligenceRoutes.js" />
+    <Content Include="Routes\Intelligence\GeneratingUnitsRoutes.js" />
+    <Content Include="Routes\Intelligence\PipelineActivityRoutes.js" />
+    <Content Include="Routes\Intelligence\PowerPlantsRoutes.js" />
+    <Content Include="Routes\Intelligence\TransmissionProjectRoutes.js" />
+    <Content Include="Routes\LayerStyleRoutes.js" />
+    <Content Include="Routes\LoginRoutes.js" />
+    <Content Include="Routes\MapSearchLayerRoutes.js" />
+    <Content Include="Routes\MyMapRoutes.js" />
+    <Content Include="Routes\ParcelsDataRoutes.js" />
+    <Content Include="Routes\ProductsRoutes.js" />
+    <Content Include="Routes\SharedDataRoutes.js" />
+    <Content Include="Routes\SiteSelectionRoute.js" />
+    <Content Include="Routes\ToolRoutes.js" />
+    <Content Include="web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Connection\connect.js" />
+    <Content Include="Controller\GeoServerController.js" />
+    <Content Include="Controller\IconCreateController.js" />
+    <Content Include="Controller\LoginContoller.js" />
+    <Content Include="Controller\MapSearchLayerController.js" />
+    <Content Include="Controller\ProductController.js" />
+    <Content Include="DLLS\LayerIconsGenerate.dll" />
+    <Content Include="Helper\Authentication.js" />
+    <Content Include="Helper\GetIconFromDLL.js" />
+    <Content Include="Helper\GetQueryPrama.js" />
+    <Content Include="Helper\GetWMSQueryPrama.js" />
+    <Content Include="Helper\logs.js" />
+    <Content Include="Helper\Utility.js" />
+    <Content Include="iisnode\index.html" />
+    <Content Include="iisnode\WEBASHLAR-13-10836-stdout-1552133465155.txt" />
+    <Content Include="iisnode\WEBASHLAR-13-3996-stdout-1552128915056.txt" />
+    <Content Include="iisnode\WEBASHLAR-13-6080-stdout-1552301491736.txt" />
+    <Content Include="iisnode\WEBASHLAR-13-7080-stdout-1552129172245.txt" />
+    <Content Include="iisnode\WEBASHLAR-13-920-stdout-1552296937112.txt" />
+    <Content Include="index.html" />
+    <Content Include="Server.js" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="sslcert\csr.pem" />
+    <Content Include="sslcert\key.pem" />
+    <Content Include="sslcert\server.crt" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52489</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:21733/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

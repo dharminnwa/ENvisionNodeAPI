@@ -1,0 +1,101 @@
+7/21/2019 1:22:52 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:22:52 pm:- null
+7/21/2019 1:22:53 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:22:53 pm:- null
+7/21/2019 1:23:14 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:23:14 pm:- null
+7/21/2019 1:23:14 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:23:14 pm:- null
+7/21/2019 1:23:14 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:23:14 pm:- null
+7/21/2019 1:23:14 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:23:14 pm:- null
+7/21/2019 1:28:5 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:28:5 pm:- null
+7/21/2019 1:30:52 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:30:52 pm:- null
+7/21/2019 1:30:53 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:30:53 pm:- null
+7/21/2019 1:31:2 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:31:2 pm:- null
+7/21/2019 1:32:6 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:6 pm:- null
+7/21/2019 1:32:7 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:7 pm:- null
+7/21/2019 1:32:15 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:15 pm:- null
+7/21/2019 1:32:49 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:49 pm:- null
+7/21/2019 1:32:49 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:49 pm:- null
+7/21/2019 1:32:49 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:49 pm:- null
+7/21/2019 1:32:49 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:32:49 pm:- null
+7/21/2019 1:33:21 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:33:21 pm:- null
+7/21/2019 1:33:22 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:33:22 pm:- null
+7/21/2019 1:37:50 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:37:50 pm:- null
+7/21/2019 1:52:19 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:52:19 pm:- null
+7/21/2019 1:52:20 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:52:20 pm:- null
+7/21/2019 1:52:36 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:52:36 pm:- null
+7/21/2019 1:52:59 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:52:59 pm:- null
+7/21/2019 1:53:6 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:53:6 pm:- null
+7/21/2019 1:53:27 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:53:27 pm:- null
+7/21/2019 1:53:32 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:53:32 pm:- null
+7/21/2019 1:54:10 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:54:10 pm:- null
+7/21/2019 1:54:38 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:54:38 pm:- null
+7/21/2019 1:56:47 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:56:47 pm:- null
+7/21/2019 1:56:48 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:56:48 pm:- null
+7/21/2019 1:57:1 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:57:1 pm:- null
+7/21/2019 1:57:17 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 1:57:17 pm:- null
+7/21/2019 3:47:1 pm:- select distinct "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,''as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY","STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS","STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 where "STATE_NAME" is not null and "STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,"PRIMEFUEL" as PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as PowerPlant_primefuel,"PRIMEMOVER" as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,"STATE_NAME" as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,"STATUS" as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,"SUBTYPE" as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,"STATE_NAME" as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 as s where s."STATE_NAME" is not null and s."STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,"STATUS" as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status ,"VOLT_CAT" as powerline_volt_cat,'' as  powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,"STATE_NAME" as powerline_state_name from xpowerlines2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' - read ECONNRESET
+7/21/2019 3:51:38 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 3:51:38 pm:- null
+7/21/2019 4:01:7 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:7 pm:- null
+7/21/2019 4:01:8 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:8 pm:- null
+7/21/2019 4:01:21 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:21 pm:- null
+7/21/2019 4:01:21 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:21 pm:- null
+7/21/2019 4:01:21 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:21 pm:- null
+7/21/2019 4:01:21 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:21 pm:- null
+7/21/2019 4:01:47 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:47 pm:- null
+7/21/2019 4:01:47 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:01:47 pm:- null
+7/21/2019 4:04:5 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:04:5 pm:- null
+7/21/2019 4:06:35 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 4:06:35 pm:- null
+7/21/2019 4:55:34 pm:- select distinct "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,''as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY","STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS","STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 where "STATE_NAME" is not null and "STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,"PRIMEFUEL" as PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as PowerPlant_primefuel,"PRIMEMOVER" as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,"STATE_NAME" as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,"STATUS" as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,"SUBTYPE" as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,"STATE_NAME" as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 as s where s."STATE_NAME" is not null and s."STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,"STATUS" as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status ,"VOLT_CAT" as powerline_volt_cat,'' as  powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,"STATE_NAME" as powerline_state_name from xpowerlines2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' - read ECONNRESET
+7/21/2019 6:01:11 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 6:01:11 pm:- null
+7/21/2019 6:01:11 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 6:01:11 pm:- null
+7/21/2019 6:01:11 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 6:01:11 pm:- null
+7/21/2019 6:01:11 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 6:01:11 pm:- null
+7/21/2019 6:01:11 pm:- Router:Geoserver Controller:GetGeoData
+7/21/2019 6:01:11 pm:- null
+7/21/2019 6:34:7 pm:- select distinct "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,''as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY","STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS","STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 where "STATE_NAME" is not null and "STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,"PRIMEFUEL" as PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as PowerPlant_primefuel,"PRIMEMOVER" as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,"STATE_NAME" as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,"STATUS" as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,"SUBTYPE" as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,"STATE_NAME" as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 as s where s."STATE_NAME" is not null and s."STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,"STATUS" as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status ,"VOLT_CAT" as powerline_volt_cat,'' as  powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,"STATE_NAME" as powerline_state_name from xpowerlines2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' - read ECONNRESET

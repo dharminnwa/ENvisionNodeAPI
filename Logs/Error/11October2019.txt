@@ -1,0 +1,80 @@
+9/11/2019 4:00:34 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:01:49 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:03:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:03:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:03:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:03:8 pm:- connect ETIMEDOUT 54.225.240.244:5432
+9/11/2019 4:05:9 pm:- Router:login Controller:Login
+9/11/2019 4:05:9 pm:- {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","address":"34.236.161.210","port":8080}
+9/11/2019 4:05:49 pm:- connect ETIMEDOUT 54.225.240.244:5432
+9/11/2019 4:09:43 pm:- connect ETIMEDOUT 54.225.240.244:5432
+9/11/2019 4:11:50 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:11:50 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:15:49 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:18:0 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 4:18:0 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 4:18:1 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 4:20:47 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:20:47 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:20:47 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:20:53 pm:- connect ETIMEDOUT 54.225.240.244:5432
+9/11/2019 4:21:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:21:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:21:2 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:21:41 pm:- connect ETIMEDOUT 54.225.240.244:5432
+9/11/2019 4:25:18 pm:- Router:GetMapData Controller:MyMap
+9/11/2019 4:25:18 pm:- ConnectionError: Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:28:23 pm:- SELECT b.EditableLayerID ,b.Name ,b.Description ,b.UserGuid ,b.CreatedTime ,b.IsDeleted ,b.DiagramData ,b.isShared from HTML_EditableLayers b where b.EditableLayerID not in (select a.HTML_EditableLayerID from HTML_EditableLayers_SharedExcluded a where a.UserGuid='2a014f32-0c63-4072-90ac-1db9aca0a709' and a.IsDeleted=1) and b.IsDeleted = 0  and b.isShared = 1 and  b.UserGuid in ('515721EA-3ED7-440A-95BD-565E5558596B', 'B7B53235-1999-4341-9CE5-C583F75BDD89', '50F2382E-A14D-4CD8-B074-67A613E80C9C', '2F024AF0-3B5F-4217-B31D-A3B9CB5902F5', 'F88174DB-F6A4-444C-A7FF-7FC7E549D293', '46C3BA0B-49A1-4AD5-B655-818428337F24', 'D6243573-2AAC-4361-B426-CB2EDBADEDFE', 'C5815A88-CBD6-4EFC-864C-BD8B9D33AF86', 'EFAEFCB0-49FD-429C-8E2C-681D1A7ED7A8', '6DB2F6E3-482A-4CAC-9B4F-5F9CE0A6AB78', '15292834-CF11-4820-B007-4E8E96968440', 'B82D4E9C-B1C7-4F45-8C99-BEBBDFEBCA20', '630EA063-8F02-40D6-A11D-13095EE01F64', 'E05EFF7C-8C22-418B-97BA-5A19FE480E04', '22E5CE39-5A84-4C24-85D8-0157A4A43185', '97EE6BF0-5741-4D39-A9CE-C30FF03C5ED5', '747A5DF3-54DD-41EF-8475-9D180C617F0E', '79D8756D-72B2-45D4-B9BE-CA893AD2A794', 'A48B7DAA-5AF2-4FA9-8D34-D4DF2CBF7F20', '63250BDF-239F-4092-BC9F-A8AE2FA31A87', '2ED5B9DE-3DBC-4D73-99EC-8F9D07784ED7', '4996F852-9A58-4DA6-B306-1DE9BC3D2AC6', '5F3D3B09-D14E-4F2D-A926-70CC2706B52F', '081E2DE5-BFD2-4176-8726-28CFFFEB8EDF', '6756E73C-587D-4EE2-BBA1-821DD42F9E9E', '1A9C5722-D1D3-417B-8601-B0909FAA14BE', '5FFECF98-19D6-4C4B-8696-5692B8AF8FF6', '323371A7-DCA5-4DBA-958F-1F434BC94083', '09854BBD-1F65-4C21-A3D9-CF94D6C275CB', '637A5149-DC76-4B96-99C4-687206E27F94') - Timeout: Request failed to complete in 15000ms
+9/11/2019 4:28:35 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:28:35 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:28:35 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:28:35 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:28:35 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:28:35 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:31:50 pm:- Defined query timeout of 90000ms exceeded when running query.
+9/11/2019 4:33:3 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:33:3 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:33:3 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:33:3 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:33:3 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:33:3 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:37:55 pm:- Cannot read property 'GetTotalCountForLayers' of undefined
+9/11/2019 4:44:1 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:44:14 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:44:14 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:44:14 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:44:14 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:44:31 pm:- Failed to connect to 54.225.64.193:1433 in 15000ms
+9/11/2019 4:47:52 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:47:52 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:47:52 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:47:52 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:47:52 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:47:52 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:55:6 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:55:6 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:55:6 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:55:6 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:1 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:1 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:1 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:1 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:1 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:1 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:41 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:41 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:41 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:41 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 4:56:41 pm:- Router:GetLayerTreeView Controller:Layer
+9/11/2019 4:56:41 pm:- Error: connect ETIMEDOUT 34.236.161.210:8080
+9/11/2019 5:18:18 pm:- Defined query timeout of 90000ms exceeded when running query.
+9/11/2019 5:18:18 pm:- Router:GeoServerNew Controller:GetGeoMapPost
+9/11/2019 5:18:18 pm:- Error: socket hang up
+9/11/2019 5:18:18 pm:- Defined query timeout of 90000ms exceeded when running query.
+9/11/2019 5:18:18 pm:- Defined query timeout of 90000ms exceeded when running query.
+9/11/2019 6:44:42 pm:- Promises is not defined
+9/11/2019 6:56:59 pm:- Promises is not defined
+9/11/2019 7:10:16 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 7:24:26 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 7:26:14 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms
+9/11/2019 7:27:51 pm:- select [GeoMapPropID], [SldBody], [CqlFilter], [UserID], [ZoomData] from [TempHtml5_GeoMapProp] where [GeoMapPropID] = @p0 - Timeout: Request failed to complete in 15000ms

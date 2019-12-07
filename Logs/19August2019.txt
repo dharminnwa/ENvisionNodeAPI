@@ -1,0 +1,318 @@
+7/19/2019 11:32:28 am:- All API call is Not Tokan based.
+7/19/2019 12:07:1 pm:- Login Sucessfully...
+7/19/2019 12:07:1 pm:- Login successfully
+7/19/2019 12:07:3 pm:- User Login Logs inserted successfully..
+7/19/2019 12:07:5 pm:- User Login Logs inserted successfully..
+7/19/2019 12:07:5 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:07:6 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:07:57 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:07:57 pm:- User Login Logs inserted successfully..
+7/19/2019 12:08:55 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:08:55 pm:- User Login Logs inserted successfully..
+7/19/2019 12:12:24 pm:- All API call is Not Tokan based.
+7/19/2019 12:13:3 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:13:5 pm:- User Login Logs inserted successfully..
+7/19/2019 12:19:43 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:19:43 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:19:44 pm:- User Login Logs inserted successfully..
+7/19/2019 12:20:8 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:20:8 pm:- User Login Logs inserted successfully..
+7/19/2019 12:22:13 pm:- All API call is Not Tokan based.
+7/19/2019 12:22:51 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:22:53 pm:- User Login Logs inserted successfully..
+7/19/2019 12:23:47 pm:- All API call is Not Tokan based.
+7/19/2019 12:27:24 pm:- User Login Logs inserted successfully..
+7/19/2019 12:27:25 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:27:27 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:32:50 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:32:51 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:32:52 pm:- User Login Logs inserted successfully..
+7/19/2019 12:33:18 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:33:18 pm:- User Login Logs inserted successfully..
+7/19/2019 12:33:18 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:39:2 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:39:3 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:39:4 pm:- User Login Logs inserted successfully..
+7/19/2019 12:39:38 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:39:38 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:39:38 pm:- User Login Logs inserted successfully..
+7/19/2019 12:40:13 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:40:14 pm:- User Login Logs inserted successfully..
+7/19/2019 12:40:15 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:41:9 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:41:10 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:41:11 pm:- User Login Logs inserted successfully..
+7/19/2019 12:47:13 pm:- All API call is Not Tokan based.
+7/19/2019 12:47:55 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:47:55 pm:- User Login Logs inserted successfully..
+7/19/2019 12:49:44 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 12:49:44 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 12:49:45 pm:- User Login Logs inserted successfully..
+7/19/2019 12:50:8 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:50:8 pm:- User Login Logs inserted successfully..
+7/19/2019 12:51:52 pm:- GetLayerTreeViewData successfully
+7/19/2019 12:51:52 pm:- User Login Logs inserted successfully..
+7/19/2019 1:01:5 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:01:6 pm:- User Login Logs inserted successfully..
+7/19/2019 1:01:7 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:01:35 pm:- User Login Logs inserted successfully..
+7/19/2019 1:01:36 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:01:36 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:01:59 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:01:59 pm:- User Login Logs inserted successfully..
+7/19/2019 1:03:36 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:03:36 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:03:36 pm:- User Login Logs inserted successfully..
+7/19/2019 1:03:46 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:03:46 pm:- User Login Logs inserted successfully..
+7/19/2019 1:06:42 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:06:43 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:06:43 pm:- User Login Logs inserted successfully..
+7/19/2019 1:06:53 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:06:54 pm:- User Login Logs inserted successfully..
+7/19/2019 1:08:56 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:08:57 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:08:57 pm:- User Login Logs inserted successfully..
+7/19/2019 1:09:27 pm:- User Login Logs inserted successfully..
+7/19/2019 1:09:28 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:09:28 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:11:4 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:11:5 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:11:5 pm:- User Login Logs inserted successfully..
+7/19/2019 1:12:31 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:12:32 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:12:32 pm:- User Login Logs inserted successfully..
+7/19/2019 1:13:1 pm:- User Login Logs inserted successfully..
+7/19/2019 1:13:1 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:13:2 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:13:26 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:13:26 pm:- User Login Logs inserted successfully..
+7/19/2019 1:13:27 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:14:0 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:14:0 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:14:0 pm:- User Login Logs inserted successfully..
+7/19/2019 1:14:26 pm:- User Login Logs inserted successfully..
+7/19/2019 1:14:26 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:14:26 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:16:3 pm:- User Login Logs inserted successfully..
+7/19/2019 1:16:4 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:16:4 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:20:9 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:20:10 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:20:10 pm:- User Login Logs inserted successfully..
+7/19/2019 1:20:57 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:20:58 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:20:58 pm:- User Login Logs inserted successfully..
+7/19/2019 1:24:33 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:24:33 pm:- User Login Logs inserted successfully..
+7/19/2019 1:25:0 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:25:0 pm:- User Login Logs inserted successfully..
+7/19/2019 1:30:8 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:30:9 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:30:9 pm:- User Login Logs inserted successfully..
+7/19/2019 1:35:59 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:36:0 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:36:0 pm:- User Login Logs inserted successfully..
+7/19/2019 1:36:21 pm:- User Login Logs inserted successfully..
+7/19/2019 1:36:22 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:36:22 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:36:29 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:36:29 pm:- User Login Logs inserted successfully..
+7/19/2019 1:38:29 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:38:29 pm:- User Login Logs inserted successfully..
+7/19/2019 1:40:47 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:40:48 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:40:49 pm:- User Login Logs inserted successfully..
+7/19/2019 1:40:59 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:40:59 pm:- User Login Logs inserted successfully..
+7/19/2019 1:41:59 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:42:0 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:42:1 pm:- User Login Logs inserted successfully..
+7/19/2019 1:42:5 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:42:5 pm:- User Login Logs inserted successfully..
+7/19/2019 1:43:6 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:43:6 pm:- User Login Logs inserted successfully..
+7/19/2019 1:45:18 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:45:19 pm:- User Login Logs inserted successfully..
+7/19/2019 1:45:20 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:45:26 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:45:27 pm:- User Login Logs inserted successfully..
+7/19/2019 1:45:55 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:45:56 pm:- User Login Logs inserted successfully..
+7/19/2019 1:47:44 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:47:44 pm:- User Login Logs inserted successfully..
+7/19/2019 1:49:19 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:49:19 pm:- User Login Logs inserted successfully..
+7/19/2019 1:53:17 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:53:19 pm:- User Login Logs inserted successfully..
+7/19/2019 1:53:19 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:53:33 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:53:33 pm:- User Login Logs inserted successfully..
+7/19/2019 1:55:48 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:55:49 pm:- User Login Logs inserted successfully..
+7/19/2019 1:55:50 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:55:58 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:55:58 pm:- User Login Logs inserted successfully..
+7/19/2019 1:58:12 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 1:58:14 pm:- User Login Logs inserted successfully..
+7/19/2019 1:58:14 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 1:58:26 pm:- GetLayerTreeViewData successfully
+7/19/2019 1:58:27 pm:- User Login Logs inserted successfully..
+7/19/2019 2:01:9 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:01:10 pm:- User Login Logs inserted successfully..
+7/19/2019 2:01:11 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:01:26 pm:- GetLayerTreeViewData successfully
+7/19/2019 2:01:26 pm:- User Login Logs inserted successfully..
+7/19/2019 2:03:6 pm:- GetLayerTreeViewData successfully
+7/19/2019 2:03:6 pm:- User Login Logs inserted successfully..
+7/19/2019 2:06:35 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:06:36 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:06:37 pm:- User Login Logs inserted successfully..
+7/19/2019 2:12:18 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:12:19 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:12:19 pm:- User Login Logs inserted successfully..
+7/19/2019 2:13:12 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:13:12 pm:- User Login Logs inserted successfully..
+7/19/2019 2:13:13 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:13:20 pm:- GetLayerTreeViewData successfully
+7/19/2019 2:13:20 pm:- User Login Logs inserted successfully..
+7/19/2019 2:14:47 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:14:47 pm:- User Login Logs inserted successfully..
+7/19/2019 2:14:48 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:14:58 pm:- GetLayerTreeViewData successfully
+7/19/2019 2:14:59 pm:- User Login Logs inserted successfully..
+7/19/2019 2:16:52 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:16:53 pm:- User Login Logs inserted successfully..
+7/19/2019 2:16:54 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:18:13 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 2:18:14 pm:- User Login Logs inserted successfully..
+7/19/2019 2:18:14 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 2:18:27 pm:- GetLayerTreeViewData successfully
+7/19/2019 2:18:27 pm:- User Login Logs inserted successfully..
+7/19/2019 3:08:41 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:08:41 pm:- User Login Logs inserted successfully..
+7/19/2019 3:11:12 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:11:12 pm:- User Login Logs inserted successfully..
+7/19/2019 3:11:26 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:11:26 pm:- User Login Logs inserted successfully..
+7/19/2019 3:13:38 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 3:13:39 pm:- User Login Logs inserted successfully..
+7/19/2019 3:13:40 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 3:14:16 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:14:16 pm:- User Login Logs inserted successfully..
+7/19/2019 3:15:12 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:15:12 pm:- User Login Logs inserted successfully..
+7/19/2019 3:16:41 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:16:41 pm:- User Login Logs inserted successfully..
+7/19/2019 3:18:41 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 3:18:41 pm:- User Login Logs inserted successfully..
+7/19/2019 3:18:42 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 3:19:18 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:19:18 pm:- User Login Logs inserted successfully..
+7/19/2019 3:20:51 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:20:52 pm:- User Login Logs inserted successfully..
+7/19/2019 3:21:58 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:21:59 pm:- User Login Logs inserted successfully..
+7/19/2019 3:23:37 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 3:23:38 pm:- User Login Logs inserted successfully..
+7/19/2019 3:23:39 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 3:23:46 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:23:46 pm:- User Login Logs inserted successfully..
+7/19/2019 3:24:3 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:24:4 pm:- User Login Logs inserted successfully..
+7/19/2019 3:24:22 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:24:22 pm:- User Login Logs inserted successfully..
+7/19/2019 3:24:36 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:24:36 pm:- User Login Logs inserted successfully..
+7/19/2019 3:26:13 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:26:13 pm:- User Login Logs inserted successfully..
+7/19/2019 3:26:41 pm:- GetLayerTreeViewData successfully
+7/19/2019 3:26:41 pm:- User Login Logs inserted successfully..
+7/19/2019 4:04:58 pm:- All API call is Not Tokan based.
+7/19/2019 4:23:29 pm:- Login Sucessfully...
+7/19/2019 4:23:29 pm:- Login successfully
+7/19/2019 4:23:31 pm:- User Login Logs inserted successfully..
+7/19/2019 4:23:32 pm:- User Login Logs inserted successfully..
+7/19/2019 4:23:33 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 4:23:33 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 4:23:52 pm:- GetLayerTreeViewData successfully
+7/19/2019 4:23:52 pm:- User Login Logs inserted successfully..
+7/19/2019 4:26:10 pm:- All API call is Not Tokan based.
+7/19/2019 4:28:0 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 4:28:0 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 4:28:0 pm:- User Login Logs inserted successfully..
+7/19/2019 4:28:16 pm:- GetLayerTreeViewData successfully
+7/19/2019 4:28:17 pm:- User Login Logs inserted successfully..
+7/19/2019 4:39:53 pm:- All API call is Not Tokan based.
+7/19/2019 5:13:22 pm:- Login Sucessfully...
+7/19/2019 5:13:22 pm:- Login successfully
+7/19/2019 5:13:22 pm:- User Login Logs inserted successfully..
+7/19/2019 5:13:25 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 5:13:26 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 5:13:26 pm:- User Login Logs inserted successfully..
+7/19/2019 5:13:49 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:13:49 pm:- User Login Logs inserted successfully..
+7/19/2019 5:14:28 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:14:28 pm:- User Login Logs inserted successfully..
+7/19/2019 5:28:10 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 5:28:11 pm:- User Login Logs inserted successfully..
+7/19/2019 5:28:12 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 5:29:29 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:29:29 pm:- User Login Logs inserted successfully..
+7/19/2019 5:30:6 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 5:30:8 pm:- User Login Logs inserted successfully..
+7/19/2019 5:30:9 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 5:30:58 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:30:58 pm:- User Login Logs inserted successfully..
+7/19/2019 5:31:13 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:31:13 pm:- User Login Logs inserted successfully..
+7/19/2019 5:42:48 pm:- User Login Logs inserted successfully..
+7/19/2019 5:42:49 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 5:42:49 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 5:43:11 pm:- GetLayerTreeViewData successfully
+7/19/2019 5:43:11 pm:- User Login Logs inserted successfully..
+7/19/2019 6:08:32 pm:- User Login Logs inserted successfully..
+7/19/2019 6:08:33 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:08:33 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:10:28 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:10:29 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:10:29 pm:- User Login Logs inserted successfully..
+7/19/2019 6:10:55 pm:- GetLayerTreeViewData successfully
+7/19/2019 6:10:55 pm:- User Login Logs inserted successfully..
+7/19/2019 6:25:44 pm:- User Login Logs inserted successfully..
+7/19/2019 6:25:44 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:25:44 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:26:0 pm:- GetLayerTreeViewData successfully
+7/19/2019 6:26:0 pm:- User Login Logs inserted successfully..
+7/19/2019 6:28:30 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:28:30 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:28:30 pm:- User Login Logs inserted successfully..
+7/19/2019 6:29:11 pm:- GetLayerTreeViewData successfully
+7/19/2019 6:29:12 pm:- User Login Logs inserted successfully..
+7/19/2019 6:37:31 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:37:31 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:37:31 pm:- User Login Logs inserted successfully..
+7/19/2019 6:38:1 pm:- User Login Logs inserted successfully..
+7/19/2019 6:38:2 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 6:38:2 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 6:39:37 pm:- GetLayerTreeViewData successfully
+7/19/2019 6:39:38 pm:- User Login Logs inserted successfully..
+7/19/2019 7:18:30 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 7:18:31 pm:- User Login Logs inserted successfully..
+7/19/2019 7:18:32 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 7:19:53 pm:- GetLayerTreeViewData successfully
+7/19/2019 7:19:53 pm:- User Login Logs inserted successfully..
+7/19/2019 7:20:47 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 7:20:47 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 7:20:48 pm:- User Login Logs inserted successfully..
+7/19/2019 7:22:32 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 7:22:33 pm:- User Login Logs inserted successfully..
+7/19/2019 7:22:33 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 7:23:11 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 7:23:12 pm:- User Login Logs inserted successfully..
+7/19/2019 7:23:13 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 7:24:2 pm:- HomeDashboard controller GetTransProjects method call successfully
+7/19/2019 7:24:3 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+7/19/2019 7:24:3 pm:- User Login Logs inserted successfully..
+7/19/2019 7:24:36 pm:- GetLayerTreeViewData successfully
+7/19/2019 7:24:36 pm:- User Login Logs inserted successfully..

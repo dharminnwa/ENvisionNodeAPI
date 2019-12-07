@@ -1,0 +1,9 @@
+10/19/2019 12:00:16 pm:- All API call is Not Tokan based.
+10/19/2019 12:02:17 pm:- Login Sucessfully...
+10/19/2019 12:02:17 pm:- Login successfully
+10/19/2019 12:02:19 pm:- User Login Logs inserted successfully..
+10/19/2019 12:02:22 pm:- HomeDashboard controller GetTransProjects method call successfully
+10/19/2019 12:02:22 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+10/19/2019 3:24:26 pm:- All API call is Not Tokan based.
+10/19/2019 3:28:41 pm:- All API call is Not Tokan based.
+10/19/2019 3:29:3 pm:- All API call is Not Tokan based.

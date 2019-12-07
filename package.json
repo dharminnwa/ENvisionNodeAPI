@@ -1,0 +1,42 @@
+{
+  "name": "envision_node_api",
+  "version": "1.0.0",
+  "description": "Envision Node api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-debug": "node --inspect-brk server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/socket.io": "^2.1.2",
+    "archiver": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "bufferlist": "^0.1.0",
+    "busboy": "^0.3.1",
+    "config": "^3.0.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "edge-js": "^11.3.1",
+    "express": "^4.17.1",
+    "express-unless": "^0.5.0",
+    "extract-zip": "^1.6.7",
+    "fs-extra": "^7.0.1",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-blacklist": "0.0.2",
+    "knex": "^0.16.5",
+    "mssql": "^5.0.5",
+    "multer": "^1.4.1",
+    "nodemailer": "^6.1.1",
+    "npm": "^6.11.3",
+    "pg": "^7.9.0",
+    "request": "^2.88.0",
+    "sharp": "^0.22.0",
+    "socket.io": "^2.2.0",
+    "wms-client": "^3.0.1",
+    "xml2json": "^0.11.2"
+  }
+}

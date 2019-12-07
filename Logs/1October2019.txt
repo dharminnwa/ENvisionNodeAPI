@@ -1,0 +1,114 @@
+9/1/2019 12:05:52 pm:- All API call is Not Tokan based.
+9/1/2019 12:05:56 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 12:05:56 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 12:06:4 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:06:4 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:06:5 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:06:5 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:06:5 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:06:5 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:06:5 pm:- User Login Logs inserted successfully..
+9/1/2019 12:06:5 pm:- User Login Logs inserted successfully..
+9/1/2019 12:06:5 pm:- User Login Logs inserted successfully..
+9/1/2019 12:06:5 pm:- User Login Logs inserted successfully..
+9/1/2019 12:08:47 pm:- All API call is Not Tokan based.
+9/1/2019 12:09:11 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:09:12 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:09:12 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:09:12 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:09:12 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:09:12 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:09:13 pm:- User Login Logs inserted successfully..
+9/1/2019 12:09:13 pm:- User Login Logs inserted successfully..
+9/1/2019 12:09:13 pm:- User Login Logs inserted successfully..
+9/1/2019 12:09:13 pm:- User Login Logs inserted successfully..
+9/1/2019 12:11:2 pm:- All API call is Not Tokan based.
+9/1/2019 12:11:13 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:11:13 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:11:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:11:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:11:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:11:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:11:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:11:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:11:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:11:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:12:13 pm:- All API call is Not Tokan based.
+9/1/2019 12:14:37 pm:- All API call is Not Tokan based.
+9/1/2019 12:14:55 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:14:55 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:14:56 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:14:56 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:14:56 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:14:56 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:14:56 pm:- User Login Logs inserted successfully..
+9/1/2019 12:14:56 pm:- User Login Logs inserted successfully..
+9/1/2019 12:14:56 pm:- User Login Logs inserted successfully..
+9/1/2019 12:14:56 pm:- User Login Logs inserted successfully..
+9/1/2019 12:16:21 pm:- All API call is Not Tokan based.
+9/1/2019 12:16:39 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:16:39 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:16:40 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:16:40 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:16:40 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:16:40 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:16:40 pm:- User Login Logs inserted successfully..
+9/1/2019 12:16:40 pm:- User Login Logs inserted successfully..
+9/1/2019 12:16:40 pm:- User Login Logs inserted successfully..
+9/1/2019 12:16:40 pm:- User Login Logs inserted successfully..
+9/1/2019 12:17:36 pm:- All API call is Not Tokan based.
+9/1/2019 12:18:2 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 12:18:2 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 12:18:13 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:18:13 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:18:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:18:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:18:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:18:14 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:18:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:18:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:18:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:18:14 pm:- User Login Logs inserted successfully..
+9/1/2019 12:25:53 pm:- All API call is Not Tokan based.
+9/1/2019 12:29:13 pm:- All API call is Not Tokan based.
+9/1/2019 12:29:18 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 12:29:18 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 12:29:51 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:29:51 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:29:52 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:29:52 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:29:52 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:29:52 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:29:52 pm:- User Login Logs inserted successfully..
+9/1/2019 12:29:52 pm:- User Login Logs inserted successfully..
+9/1/2019 12:29:52 pm:- User Login Logs inserted successfully..
+9/1/2019 12:29:52 pm:- User Login Logs inserted successfully..
+9/1/2019 12:31:48 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 12:31:50 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 12:32:1 pm:- Loaded map Logs inserted successfully..
+9/1/2019 12:32:1 pm:- Basemap changed Logs inserted successfully..
+9/1/2019 12:32:2 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:32:2 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:32:2 pm:- User Login Logs inserted successfully..
+9/1/2019 12:32:2 pm:- User Login Logs inserted successfully..
+9/1/2019 12:32:2 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:32:2 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:32:3 pm:- User Login Logs inserted successfully..
+9/1/2019 12:32:3 pm:- User Login Logs inserted successfully..
+9/1/2019 12:43:5 pm:- All API call is Not Tokan based.
+9/1/2019 12:54:52 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 12:54:52 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 12:56:2 pm:- Parcel buffer logs inserted successfully..
+9/1/2019 12:57:11 pm:- Site selection Logs inserted successfully..
+9/1/2019 12:57:21 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:57:22 pm:- User Login Logs inserted successfully..
+9/1/2019 12:57:24 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:57:24 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:57:24 pm:- GetLayerTreeViewData successfully
+9/1/2019 12:57:24 pm:- User Login Logs inserted successfully..
+9/1/2019 12:57:25 pm:- User Login Logs inserted successfully..
+9/1/2019 12:57:25 pm:- User Login Logs inserted successfully..
+9/1/2019 1:05:0 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 1:05:1 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+9/1/2019 1:05:37 pm:- HomeDashboard controller GetTransProjects method call successfully
+9/1/2019 1:05:39 pm:- HomeDashboard controller GetPipelineActivities method call successfully

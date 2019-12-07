@@ -1,0 +1,2 @@
+8/23/2019 4:55:45 pm:- select distinct "USECDSTDSC" from  "ParcelPoints_02020" where "USECDSTDSC" is not null order by  "USECDSTDSC" - read ECONNRESET
+8/23/2019 5:31:25 pm:- select distinct "USECDSTDSC" from  "ParcelPoints_02020" where "USECDSTDSC" is not null order by  "USECDSTDSC" - read ECONNRESET

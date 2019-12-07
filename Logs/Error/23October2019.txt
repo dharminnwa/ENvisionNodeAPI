@@ -1,0 +1,33 @@
+9/23/2019 12:09:41 pm:- select distinct "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,''as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY","STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS","STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpipelines2018_10 where "STATE_NAME" is not null and "STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,"PRIMEFUEL" as PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",'' as "STATUS",'' as "STATE_NAME" ,'' as PowerPlant_primefuel,"PRIMEMOVER" as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,"STATE_NAME" as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerplants2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,"STATUS" as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,"SUBTYPE" as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 union all select distinct  '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,"STATE_NAME" as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xsubstations2018_10 as s where s."STATE_NAME" is not null and s."STATE_NAME" !='' union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,"STATUS" as powerline_status,'' as powerline_volt_cat,'' as powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status ,"VOLT_CAT" as powerline_volt_cat,'' as  powerline_state_name from xpowerlines2018_10 union all select distinct '' as "COMMODITY",''as "STATUS",'' as "STATE_NAME" ,'' as  PowerPlant_primefuel,'' as PowerPlant_primemover,'' as powerplant_State_name ,'' as substations_Status,'' as substations_Subtype,'' as substations_State_Name ,'' as powerline_status,'' as powerline_volt_cat,"STATE_NAME" as powerline_state_name from xpowerlines2018_10 as p where p."STATE_NAME" is not null and p."STATE_NAME" !='' - read ECONNRESET
+9/23/2019 12:14:28 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 12:14:28 pm:- null
+9/23/2019 12:40:14 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 12:40:14 pm:- null
+9/23/2019 1:07:16 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:07:16 pm:- null
+9/23/2019 1:12:0 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:12:0 pm:- null
+9/23/2019 1:13:35 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:13:35 pm:- null
+9/23/2019 1:16:14 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:16:14 pm:- null
+9/23/2019 1:20:12 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:20:12 pm:- null
+9/23/2019 1:30:5 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 1:30:5 pm:- null
+9/23/2019 3:45:32 pm:- Router:GetPropertyNames Controller:AddData
+9/23/2019 3:45:32 pm:- null
+9/23/2019 3:45:32 pm:- Router:GetPrivateLayersTreeViewParent Controller:AddData
+9/23/2019 3:45:32 pm:- null
+9/23/2019 3:46:10 pm:- Router:GetKmlData Controller:AddData
+9/23/2019 3:46:10 pm:- Error: ENOENT: no such file or directory, scandir './UploadedFiles/Kmls/aagarwal.anand@gmail.com/2019.71.12.12.42.41'
+9/23/2019 3:46:20 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 3:46:20 pm:- null
+9/23/2019 3:53:14 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 3:53:14 pm:- null
+9/23/2019 3:57:25 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 3:57:25 pm:- null
+9/23/2019 3:57:27 pm:- Router:GetKmlData Controller:AddData
+9/23/2019 3:57:27 pm:- Error: ENOENT: no such file or directory, scandir './UploadedFiles/Kmls/prashantpatel.wa@gmail.com/2019.91.1.8.16.34'
+9/23/2019 3:58:8 pm:- Router:Geoserver Controller:GetPrivateLayerData
+9/23/2019 3:58:8 pm:- null

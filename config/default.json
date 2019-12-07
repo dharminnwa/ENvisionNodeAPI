@@ -1,0 +1,140 @@
+{
+  "name": "config",
+  "enviroment": "development",
+  "server": {
+    "port": 1338,
+    "httpsPort": 1339,
+    "bodyParser": {
+      "limit": "80mb",
+      "isExtended": true
+    },
+    "apiUrl": "/api",
+    "apiProducts": "/products",
+    "apiLayer": "/Layer",
+    "apiGeoServer": "/GeoServer",
+    "apiGeoServerNew": "/GeoServerNew",
+    "apiIcon": "/Icon",
+    "apiLogin": "/User",
+    "apiAddData": "/AddData",
+    "apiLayerStyle": "/LayerStyle",
+    "apiCreateLayer": "/CreateLayer",
+    "apiSiteSelection": "/SiteSelection",
+    "IntelligenceSection": {
+      "apiCompanyProfile": "/CompanyProfile",
+      "apipipelineActivity": "/PipelineActivity",
+      "apiTransmissionProject": "/TransmissionProject",
+      "apiPowerPlants": "/PowerPlants",
+      "apiGeneratingUnits": "/GeneratingUnits"
+    },
+    "apiTool": "/Tool",
+    "apiGlobalSearch": "/GlobalSearch",
+    "apiHomeDasboard": "/HomeDashboard",
+    "apiFeedback": "/FeedBack",
+    "apiMyMap": "/MyMap",
+    "apiNotes": "/Notes",
+    "apiParcels": "/ParcelData",
+    "apiSharedData": "/SharedData",
+    "apiDrawTools": "/DrawTools"
+  },
+  "db": {
+    "energymapitdb": {
+      "server1": "www.energymapit.com",
+      "server": "54.225.64.193",
+      "user": "sa",
+      "password": "thecrow",
+      "database": "MapSearchAttributes",
+      "client": "mssql"
+    },
+    "Researchdb": {
+      "server": "54.225.124.71",
+      "user": "MapsearchUser",
+      "password": "$Mapsearch2015",
+      "database": "MapSearchData",
+      "client": "mssql"
+    },
+    "dbPostgreSql": {
+      "server": "54.225.240.244",
+      "user": "postgres",
+      "password": "thecrow",
+      "database": "postgis20",
+      "parceldatabase": "mapsearch_parcel",
+      "port": "5432",
+      "client": "pg"
+    }
+  },
+  "GEOServerUrl": {
+    "testWMSServer": {
+      "wmsUrl1": "http://tile.mapsearch360.com/envision/wms?",
+      "wmsUrl2": "http://esri.mapsearch360.com/envision/wms?",
+      "wmsUrl": "http://54.225.240.244:8080/envision/wms?"
+    },
+    "wmsUrl1": "https://wms.envisionmaps.com/envision/BaseMaps/wms?",
+    "wfsUrl1": "https://wms.envisionmaps.com/envision/wfs?",
+    "wmsUrl2": "http://ec2-52-5-177-221.compute-1.amazonaws.com/envision/BaseMaps/wms?",
+    "wfsUrl2": "http://ec2-52-5-177-221.compute-1.amazonaws.com/envision/wfs?",
+    "wmsUrl4": "http://wmshtml5-1821389150.us-east-1.elb.amazonaws.com/geoserver/BaseMaps/wms?",
+    "wfsUrl4": "http://wmshtml5-1821389150.us-east-1.elb.amazonaws.com/geoserver/wfs?",
+    "wmsUrl5": "http://ec2-35-153-142-61.compute-1.amazonaws.com:8080/geoserver/BaseMaps/wms?",
+    "wfsUrl5": "http://ec2-35-153-142-61.compute-1.amazonaws.com:8080/geoserver/BaseMaps/wfs?",
+    "wmsUrl": "http://linuxwms-1527750773.us-east-1.elb.amazonaws.com/geoserver/BaseMaps/wms?",
+    "wfsUrl": "http://linuxwms-1527750773.us-east-1.elb.amazonaws.com/geoserver/BaseMaps/wfs?"
+  },
+  "ImagePath": {
+    "iconImageURL1": "https://api.envisionmaps.com:8080/api/icongenerate/get/?Id=",
+    "UploadExternalIcon1": "/Websites/EnvisionAngular-API/API/Images/EnvisionAngularUsersIcon",
+    "externalImage1": "https://api.envisionmaps.com:8080/Images/01)AngularEnvision%20Images/ExternalIconId/",
+    "externalUserImage1": "https://api.envisionmaps.com:8080/Images/EnvisionAngularUsersIcon/",
+    "iconImageURL": "https://node.envisionmaps.net/api/Icon/GetIcon/?Id=",
+    "UploadExternalIcon": "/Websites/ENvision_Node_API/Img/Images/EnvisionAngularUsersIcon",
+    "externalImage": "https://node.envisionmaps.net/Images/01)AngularEnvision%20Images/ExternalIconId/",
+    "externalUserImage": "https://node.envisionmaps.net/Images/EnvisionAngularUsersIcon/"
+  },
+  "GEOServerRestApi": {
+    "geoServerHostName": "ec2-35-153-142-61.compute-1.amazonaws.com",
+    "geoServerHostName1": "ec2-54-225-240-244.compute-1.amazonaws.com",
+    "loadbalancerHostName": "linuxwms-1527750773.us-east-1.elb.amazonaws.com",
+    "geoServerUserName": "admin",
+    "geoServerPassword": "the210711"
+  },
+  "DotnetAPI": {
+    "apiURL1": "http://localhost:44302/api/",
+    "apiURL4": "https://localhost:8080/api/",
+    "apiURL": "https://api.envisionmaps.com:8080/api/",
+    "apiMapsearchDataURL": "http://api_prod.mapsearch360.com/",
+    "ControllerAPI": {
+      "UserController": {
+        "UserLogin": "User/LogInUser",
+        "UserLogout": "User/LogOut",
+        "ChangeCurrentUsersPassword": "User/ChangeCurrentUsersPassword",
+        "CreateIcon": "IconGenerate/CreateIcon"
+      },
+      "LayerController": {
+        "GetLayerTreeViewData": "Layer/GetLayerTreeViewData"
+      },
+      "AddDataController": {
+        "PrivateLayerTree": "AddData/GetPrivateLayerTreeViewData"
+      }
+    }
+  },
+  "IsTokanGenrate": {
+    "Tokan": false
+  },
+  "JWTTokenKey": {
+    "secret": "shared-secret"
+  },
+  "HomeDashboardXmlfileUrl": {
+    "TrnsmissionProjectURL1": "https://api.envisionmaps.com:8080/Images/RSS/tpr.xml",
+    "PipelineActivitiesURL1": "https://api.envisionmaps.com:8080/Images/RSS/par.xml",
+    "TrnsmissionProjectURL": "https://www.envisionmaps.com/Images/RSS/tpr.xml",
+    "PipelineActivitiesURL": "https://www.envisionmaps.com/Images/RSS/par.xml"
+  },
+  "NodeMailer": {
+    "MailService": "gmail",
+    "FeedbackEmail": {
+      "FeedbackFromUserId": "support@envisionmaps.com",
+      "FeedbackFromPassword": "mapsearch2013",
+      "FeebackToUserId1": "help@mapsearch.com",
+      "FeebackToUserId": "webashlar.test11@gmail.com"
+    }
+  }
+}

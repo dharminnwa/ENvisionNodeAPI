@@ -1,0 +1,19 @@
+8/4/2019 11:55:46 am:- All API call is Not Tokan based.
+8/4/2019 12:05:23 pm:- Login Sucessfully...
+8/4/2019 12:05:23 pm:- Login successfully
+8/4/2019 12:05:25 pm:- User Login Logs inserted successfully..
+8/4/2019 12:05:28 pm:- HomeDashboard controller GetPipelineActivities method call successfully
+8/4/2019 12:05:28 pm:- User Login Logs inserted successfully..
+8/4/2019 12:05:29 pm:- HomeDashboard controller GetTransProjects method call successfully
+8/4/2019 12:07:54 pm:- User Login Logs inserted successfully..
+8/4/2019 12:07:54 pm:- User Login Logs inserted successfully..
+8/4/2019 12:07:55 pm:- User Login Logs inserted successfully..
+8/4/2019 12:07:55 pm:- User Login Logs inserted successfully..
+8/4/2019 12:07:55 pm:- User Login Logs inserted successfully..
+8/4/2019 12:07:55 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
+8/4/2019 12:08:22 pm:- User Login Logs inserted successfully..
